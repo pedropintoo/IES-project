@@ -1,3 +1,15 @@
+# 2ano/2semestre/C/C-project
+
+# Nota: 19.7
+
+Pedro Pinto (115304)
+
+João Pinto (104384)
+
+Tomás Santos (112981)
+
+Danilo Silva (11384)
+
 
 # STS - Smart Training System
 
