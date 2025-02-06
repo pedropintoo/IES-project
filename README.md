@@ -10,6 +10,7 @@ Tomás Santos (112981)
 
 Danilo Silva (11384)
 
+upstream: https://github.com/detiuaveiro/ies-24-25-group-project-201
 
 # STS - Smart Training System
 
